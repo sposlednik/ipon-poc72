@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_5rAIIFO6EeqvtoV9PIS7Mw" label="IPON_72" description="" language="java" technicalLabel="IPON_72" creationDate="2020-02-20T09:04:58.696+0100" author="_5rAIIVO6EeqvtoV9PIS7Mw" productVersion="Talend Data Services Platform-7.2.1.20190620_1446" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/sposlednik/ipon-poc72.git&quot;,&quot;login&quot;:&quot;sposlednik@partner.auchan.fr&quot;,&quot;passwd&quot;:&quot;RXoo+Y+LokoodS+IGmLlrw==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" bigData="false">
+    <migrationTask xmi:id="_5rJ5IFO6EeqvtoV9PIS7Mw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_5rAIIVO6EeqvtoV9PIS7Mw" login="sposlednik@partner.auchan.com" firstName="Simon" lastName="Poslednik" type="DQ" additionnalData="{}"/>
+</xmi:XMI>
